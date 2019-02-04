@@ -1,0 +1,4 @@
+Symbol,Date,,Size,Price,Capital,CapRisk,TradeRisk,Close,StopLoss,Target,Broker,,,,,,,,
+MARICO,2018/07/24,BUY,25,351,100000,0.01,0.03,,347,361,Z,,,,,,,,
+MARICO,2018/07/26,BUY,35,361.5,100000,0.01,0.03,,357,370,Z,,,,,,,,
+MARICO,2018/07/29,SELL,60,365.5,,,,,,,Z,,,,,,,,

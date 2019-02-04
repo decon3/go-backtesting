@@ -4,6 +4,10 @@
 *.dll
 *.so
 *.dylib
+*.txt
+# vi swap file
+.*.swp
+
 
 # Test binary, build with `go test -c`
 *.test

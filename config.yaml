@@ -1,0 +1,6 @@
+portfolioRisk : 0.02
+tradeRisk : 0.03
+profit : 0.10
+initialCash : 100000
+dataFolder: "data"
+period: 6
